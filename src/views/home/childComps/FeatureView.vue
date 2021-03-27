@@ -1,0 +1,35 @@
+<template>
+  <div id="feature">
+    <a href="https://act.mogujie.com/zzlx67">
+      <img src="~assets/img/home/recommend_bg.jpg" alt="">
+    </a>
+  </div>
+</template>
+
+<script>
+  export default {
+    name: "FeatureView",
+    data(){
+      return {
+        name:'123'
+      }
+    },
+    mounted(){
+
+    },
+    methods:{
+
+    },
+    created(){
+
+    },
+
+  }
+</script>
+
+<style scoped>
+  #feature img{
+    width: 100vw;
+    height: 275px;
+  }
+</style>
